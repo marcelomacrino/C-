@@ -1,0 +1,10 @@
+D:\ProjetosC#\Moderno\Moderno\bin\Debug\Moderno.exe.config
+D:\ProjetosC#\Moderno\Moderno\bin\Debug\Moderno.exe
+D:\ProjetosC#\Moderno\Moderno\bin\Debug\Moderno.pdb
+D:\ProjetosC#\Moderno\Moderno\obj\Debug\Moderno.csproj.AssemblyReference.cache
+D:\ProjetosC#\Moderno\Moderno\obj\Debug\Moderno.Form1.resources
+D:\ProjetosC#\Moderno\Moderno\obj\Debug\Moderno.Properties.Resources.resources
+D:\ProjetosC#\Moderno\Moderno\obj\Debug\Moderno.csproj.GenerateResource.cache
+D:\ProjetosC#\Moderno\Moderno\obj\Debug\Moderno.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\Moderno\Moderno\obj\Debug\Moderno.exe
+D:\ProjetosC#\Moderno\Moderno\obj\Debug\Moderno.pdb

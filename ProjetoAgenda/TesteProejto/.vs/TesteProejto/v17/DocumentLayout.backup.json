@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjetosC#\\ProjetoAgenda\\TesteProejto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B064C92A-116F-4B7A-AA90-3DF9B19ABE65}|TesteProejto\\TesteProejto.csproj|d:\\projetosc#\\projetoagenda\\testeproejto\\testeproejto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B064C92A-116F-4B7A-AA90-3DF9B19ABE65}|TesteProejto\\TesteProejto.csproj|solutionrelative:testeproejto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ProjetosC#\\ProjetoAgenda\\TesteProejto\\TesteProejto\\Form1.cs",
+              "RelativeDocumentMoniker": "TesteProejto\\Form1.cs",
+              "ToolTip": "D:\\ProjetosC#\\ProjetoAgenda\\TesteProejto\\TesteProejto\\Form1.cs [Design]",
+              "RelativeToolTip": "TesteProejto\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:29:04.685Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
